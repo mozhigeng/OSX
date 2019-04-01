@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Library/WebServer/Documents/Demo/Template/Admin/Public'
+let g:netrw_dirhist_2='/Users/Joker/Code/Python/Battery'
+let g:netrw_dirhist_3='/Library/WebServer/Documents/demo/Templates'
+let g:netrw_dirhist_4='/Users/mozhigeng/.vim'
+let g:netrw_dirhist_5='/Users/Joker/Work/Django/myPro/myPro'
+let g:netrw_dirhist_6='/Users/Joker/Work/Python3/Project/Project'
+let g:netrw_dirhist_7='/Users/Joker/Work/Python3/Project/myapp/templates'
+let g:netrw_dirhist_8='/Users/Joker/Google Drive/Code/Monica/Blog/polls/static'

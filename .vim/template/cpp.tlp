@@ -1,0 +1,17 @@
+/*--------------------------------------
+ # Author: Joker	mozhigeng@icloud.com
+ # Environment: Linux & MacOS
+ # Tool: Vim & G++
+ # Description:
+---------------------------------------*/
+
+#include<iostream>
+
+using std::cout;
+using std::cin;
+using std::endl;
+
+int main(void){
+
+	return 0;
+}

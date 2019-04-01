@@ -1,0 +1,64 @@
+ping www.konami.top
+ping baidu.com
+ssh root@45.77.22.215
+more /etc/hosts
+docekr ps
+docker ps
+docker container start LAMP
+ssh root@45.77.22.215
+ping www.konami.top
+nslookup www.konami.top
+ping www.konami.top
+ping www.konami.top 2> err.txt
+ls
+more err.txt
+ping 8.8.8.8
+nslookup www.apple.com 8.8.8.8
+dig @8.8.8.8 www.apple.com
+sudo dscacheutil -flushcache
+sudo killall -HUP mDNSResponder
+ping www.konami.top
+ssh root@45.77.22.215
+ls
+ssh root@45.77.22.215
+vim ~/.zshrc
+source ~/.zshrc
+pwd
+uname
+cd 
+cd GoogleDrive
+ls
+cd Code
+;s
+ls
+cd Applications
+git log
+pwd
+cd PHP
+cd
+cd WWW
+ls
+cd Xeb
+ls
+vim index.php
+ls
+cd
+ssh root@173.194.93.100
+brew cask install v2rayx
+ping www.konami.top
+brew cask install v2rayx
+docker ps
+docker run -d -p 8080:80 -v /Users/mozhigeng/WWW/Smarty/:/var/www/html tutum/lamp
+docker ps
+docker container 246 rename Smarty
+docker container rename help
+docker container rename --help
+docker container rename 246 Smarty
+docker ps
+cd ..
+cd Smarty
+ls
+vim init.php
+jobs
+vim index.php
+ssh root@45.77.22.215

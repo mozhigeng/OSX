@@ -1,0 +1,64 @@
+cd ZooKeeper/server1
+cd ZooKeeper/server2
+cd ZooKeeper/server3
+ls
+./zookeeper-3.4.10/bin/zkServer.sh start
+./zookeeper-3.4.10/bin/zkServer.sh status
+./zookeeper-3.4.10/bin/zkCl.sh
+./zookeeper-3.4.10/bin/zkCli.sh
+more zookeeper.out
+more zookeeper-3.4.10/conf/zoo.cfg
+echo 1 > ../../data/myid
+echo 1 > data/myid
+echo 2 > data/myid
+echo 3 > data/myid
+./zookeeper-3.4.10/bin/zkServer.sh start
+./zookeeper-3.4.10/bin/zkCli.sh
+./zookeeper-3.4.10/bin/zkServer.sh start
+./zookeeper-3.4.10/bin/zkCli.sh -server 127.0.0.1:2182
+cd
+./zookeeper-3.4.10/bin/zkServer.sh stop
+cd ZooKeeper/server2
+./zookeeper-3.4.10/bin/zkServer.sh stop
+cd
+tmux
+brew info zookeeper
+cd /usr/local/var/run/zookeeper
+ls
+mkdir -p data/zk1/logs
+mkdir -p data/zk2/logs
+mkdir -p data/zk3/logs
+tree data
+echo 1 > data/zk1/myid
+echo 2 > data/zk2/myid
+echo 3 > data/zk3/myid
+tree data
+tree data
+more data/zk1/myid
+more data/zk2/myid
+more data/zk3/myid
+netstat -anp | grep 2888
+netstat  | grep 2888
+netstat -AnW | grep 2182
+netstat -AnW | grep 2889
+netstat -AnW | grep 2890
+netstat -AnW | grep 22
+netstat -nW | grep 22
+netstat -nW | grep 3888
+netstat -nW | grep 3889
+netstat -nW | grep 3890
+netstat -nW | grep 80
+netstat  | grep 80
+tldr netstat
+netstat -l | grep 80
+netstat -lt | grep 80
+nestat
+nestate
+netstat
+ssh mozhigeng@167.179.69.47
+ls
+pwd
+cd
+ls
+rm -r Install.macOS.High.Sierra.10.13.6.dmg
+ls

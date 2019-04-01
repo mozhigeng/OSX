@@ -1,0 +1,19 @@
+pane	0	0	:Python	0	:	0	:/Users/mozhigeng/GoogleDrive/Code/Py/Rest/RESTful/Core	1	vim	:vim Core/settings.py
+pane	0	0	:Python	0	:	1	:/Users/mozhigeng/GoogleDrive/学习文档/Django	0	vim	:vim demo.py
+pane	0	0	:Python	0	:	2	:/Users/mozhigeng/GoogleDrive/Code/Py/WebCraw	0	more	:more get_a_page.py
+pane	0	0	:Python	0	:	3	:/Users/mozhigeng	0	vim	:vim 关于AB的基本原则.txt
+pane	0	1	:PHP	0	:	0	:/Users/mozhigeng	0	docker	:docker exec -it Smarty /bin/bash
+pane	0	1	:PHP	0	:	1	:/Users/mozhigeng/WWW/Smarty	1	vim	:vim conf.php
+pane	0	1	:PHP	0	:	2	:/Users/mozhigeng/WWW/Smarty	0	vim	:vim index.php
+vim init.php
+pane	0	1	:PHP	0	:	3	:/Users/mozhigeng/WWW/Smarty	0	vim	:vim index.php
+pane	0	2	:SSH	0	:	0	:/Users/mozhigeng	1	zsh	:
+pane	0	3	:Google Cloud	1	:*	0	:/Users/mozhigeng	0	zsh	:login
+pane	0	3	:Google Cloud	1	:*	1	:/Users/mozhigeng	1	vim	:vim /Users/mozhigeng/.zshrc
+pane	0	4	:Nothing	0	:-	0	:/Users/mozhigeng/GoogleDrive	1	ssh	:ssh root@34.85.100.232
+window	0	0	0	:	c69d,364x83,0,0{181x83,0,0[181x45,0,0,1,181x37,0,46,2],182x83,182,0[182x41,182,0,3,182x41,182,42,4]}
+window	0	1	0	:	e8f6,364x83,0,0{164x83,0,0[164x33,0,0,6,164x49,0,34,10],199x83,165,0[199x49,165,0,5,199x33,165,50,11]}
+window	0	2	0	:	c244,364x83,0,0,7
+window	0	3	1	:*	c5fa,364x83,0,0{182x83,0,0,8,181x83,183,0,12}
+window	0	4	0	:-	c246,364x83,0,0,9
+state	0	

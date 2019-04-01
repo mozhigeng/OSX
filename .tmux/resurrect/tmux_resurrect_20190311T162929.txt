@@ -1,0 +1,8 @@
+pane	0	0	:zsh	1	:*	0	:/Users/mozhigeng/GoogleDrive/Code/Py/Rest/RESTful	1	zsh	:vim Core/settings.py
+vim Core/urls.py
+pane	0	0	:zsh	1	:*	1	:/Users/mozhigeng/GoogleDrive/学习文档/Django	0	vim	:vim demo.py
+vim RESTful.txt
+pane	0	0	:zsh	1	:*	2	:/Users/mozhigeng/GoogleDrive/Code/Py/WebCraw	0	more	:more get_a_page.py
+pane	0	0	:zsh	1	:*	3	:/Users/mozhigeng	0	vim	:vim 关于AB的基本原则.txt
+window	0	0	1	:*	0695,364x83,0,0{181x83,0,0[181x45,0,0,0,181x37,0,46,2],182x83,182,0[182x41,182,0,1,182x41,182,42,3]}
+state	0	

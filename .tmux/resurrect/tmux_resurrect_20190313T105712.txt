@@ -1,0 +1,9 @@
+pane	0	0	:Python	0	:-	0	:/Users/mozhigeng/GoogleDrive/Code/Py/Rest/RESTful/Core	1	vim	:vim Core/settings.py
+pane	0	0	:Python	0	:-	1	:/Users/mozhigeng/GoogleDrive/学习文档/Django	0	vim	:vim demo.py
+pane	0	0	:Python	0	:-	2	:/Users/mozhigeng/GoogleDrive/Code/Py/WebCraw	0	more	:more get_a_page.py
+pane	0	0	:Python	0	:-	3	:/Users/mozhigeng	0	vim	:vim 关于AB的基本原则.txt
+pane	0	1	:PHP	1	:*	0	:/Users/mozhigeng	0	zsh	:
+pane	0	1	:PHP	1	:*	1	:/Users/mozhigeng	1	zsh	:
+window	0	0	0	:-	c69d,364x83,0,0{181x83,0,0[181x45,0,0,1,181x37,0,46,2],182x83,182,0[182x41,182,0,3,182x41,182,42,4]}
+window	0	1	1	:*	0b46,364x83,0,0{182x83,0,0,5,181x83,183,0,6}
+state	0	
