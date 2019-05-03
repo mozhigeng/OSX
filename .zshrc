@@ -3,7 +3,10 @@
 
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
+export PATH=$PATH:./
 source ~/.bash_profile
+#支持通配符
+set nonomatch 
 
 
 #导入路径

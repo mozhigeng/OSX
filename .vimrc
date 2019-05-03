@@ -22,7 +22,7 @@ autocmd BufNewFile *.py 0r ~/.vim/template/py.tlp
 "--Emmet插件--
 let g:user_emmet_leader_key=',' "修改快捷键
 let g:user_emmet_install_global = 0 "控制生效文件
-autocmd FileType html,css EmmetInstall "仅仅允许指定文件生效
+autocmd FileType php,html,css EmmetInstall "仅仅允许指定文件生效
 
 "--Tabular插件--
 inoremap <silent> <Bar>   <Bar><Esc>:call <SID>align()<CR>a
@@ -92,7 +92,7 @@ let g:airline_right_sep=' '
 "
 let g:airline_powerline_fonts=0
 
-"--foundation -
+"------------------------------------------------------------------------foundation---------------------------------------------------------------- -
 "-XY格栅
 
 ab gx .grid-x>.cell
@@ -116,3 +116,7 @@ ab header- header('Content-Type:text/html;charset=utf-8');
 ab in- include('');<ESC>hhh
 
 
+"------------------------------------------------------------------------Smarty---------------------------------------------------------------- -
+ab -- {}<Esc>i
+ab foreach-- {*遍历数组*}<Enter>{foreach $arrs as $arr}<Enter><Tab>{foreach $arr as $k=>$v}<Enter><Tab>{$k} : {$v}<br/><Enter><BackSpace>{/foreach}<Enter><BackSpace>{/foreach}<Esc>kkA 
+ab section-- {*遍历一维索引数组 $smarty.sec_name.index .index_prev .index_next .loop .total .first .last .iteration*}<Enter>{section loop=$list name=sec_name start=0 step=1 max=100000 show=true}<Enter><Tab>{$list[sec_name]}<br/><Enter><BackSpace>{/section}<Esc>kA
